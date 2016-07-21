@@ -1,8 +1,23 @@
+name: Trilaxy
+favicon: null
 layout_spectrum: 0.8781362
+typography_spectrum: 0.75147
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.06746493
+  brandColors: []
   brandStrength: 0.4856631
   lightness: 0.4086021
+  saturation: 0.06746493
   rhythmicContrast: 0.1571592
-typography_spectrum: 0.4892473
-name: Trilaxy
+purpose: []
